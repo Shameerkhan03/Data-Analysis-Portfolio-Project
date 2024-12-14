@@ -20,8 +20,3 @@ This project focuses on cleaning the **Nashville Housing Dataset** using SQL. Ke
 ## Tools Used
 - **SQL Server**
 - **SQL Functions:** `CONVERT()`, `ISNULL()`, `SUBSTRING()`, `CHARINDEX()`, `PARSENAME()`, `ROW_NUMBER()`, `CASE`
-
-## How to Use
-1. Clone this repository.
-2. Run the SQL scripts on your database.
-3. The `NashvilleHousing` table will be cleaned and ready for analysis.

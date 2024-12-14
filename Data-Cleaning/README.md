@@ -1,4 +1,4 @@
-#Nashville Housing Data Cleaning
+Nashville Housing Data Cleaning
 Project Overview
 This project focuses on cleaning the Nashville Housing Dataset using SQL. Key tasks include:
 
